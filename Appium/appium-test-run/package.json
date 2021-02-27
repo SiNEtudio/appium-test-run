@@ -1,0 +1,19 @@
+{
+  "name": "appium-test-run",
+  "version": "1.0.0",
+  "description": "This is Appium 1st run by SiNEtudio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiNEtudio/appium-test-run.git"
+  },
+  "author": "SiNEtudio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiNEtudio/appium-test-run/issues"
+  },
+  "homepage": "https://github.com/SiNEtudio/appium-test-run#readme"
+}
